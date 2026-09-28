@@ -1,0 +1,13 @@
+# Ignore huge dataset files
+dataset/
+
+# Ignore massive output predictions
+output/
+
+# Ignore zip files
+*.zip
+
+# Standard Python ignores
+__pycache__/
+*.pyc
+.env
